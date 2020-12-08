@@ -13,3 +13,9 @@ In order to run this program, there are several steps:
 To run the parser file:
 - Open cmd in the `audio_rtp_parser.py` directory
 - Enter command `python audio_rtp_parser.py -i /path/to/filename.pcap -o path/to/outputfolder`
+
+## Run Test
+There are 2 small PCAP files for testing:
+- Enter command `python audio_rtp_parser.py -i './test/pcap/test1.pcap' -o './test/output/test1'`
+- Enter command `python audio_rtp_parser.py -i './test/pcap/test2.pcap' -o './test/output/test2'`
+You can try another PCAP file.
