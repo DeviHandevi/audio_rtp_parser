@@ -7,6 +7,7 @@ In order to run this program, there are several steps:
 - Install Python 3.8 from `https://www.python.org/downloads/windows/`
 - PyShark `pip install pyshark`
 - Sox `pip install sox` and also install sox for windows from `http://sox.sourceforge.net/`
+- Add sox folder to your environment variable path
 - Put `libmad.dll` and `libmp3lame.dll` file to sox folder from `https://app.box.com/s/tzn5ohyh90viedu3u90w2l2pmp2bl41t`
 
 ## Run
